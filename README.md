@@ -1,6 +1,8 @@
 **Hello world!** 👋 I'm Shanzid, a full-stack web app developer 👨‍💻 with an obsession in personal finance 📈.
 
-🌎 [See personal website](https://shanzid.com)
+✨ My latest project: <b>[Trackgit](https://trackgit.com)</b> <sub><sup>([https://github.com/Trackgit-analytics](https://github.com/Trackgit-analytics))</sup></sub>
+
+🌎 [Personal website](https://shanzid.com)
 
 📃 [Latest Resume](https://shanzid.com/Shanzid_Shaiham-resume.pdf)
 
