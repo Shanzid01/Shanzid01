@@ -25,3 +25,8 @@
 <a href="https://trackgit.com"><img src="https://sfy.cx/u/nny" alt="trackgit-views" /></a> 
 
 ![Shanzid's github stats](https://github-readme-stats.vercel.app/api?username=Shanzid01&count_private=true)
+
+<br />
+
+
+❤ Like what you see? [Support my work](https://pay.shanzid.com)
