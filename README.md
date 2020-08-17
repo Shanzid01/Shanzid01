@@ -1,12 +1,12 @@
 **Hello world!** 👋 I'm Shanzid, a full-stack web app developer 👨‍💻 with an obsession in personal finance 📈.
 
-[🌎 See personal website](https://shanzid.com)
+🌎 [See personal website](https://shanzid.com)
 
-[📃 Latest Resume](https://shanzid.com/Shanzid_Shaiham-resume.pdf)
+📃 [Latest Resume](https://shanzid.com/Shanzid_Shaiham-resume.pdf)
 
 🤙 Talk to me @ [LinkedIn](https://www.linkedin.com/in/shanzid01/), [Email](mailto:hello@shanzid.com)
 
-🏫 Studying at McGill University in Computer Science and Statistics
+🏫 Studying Computer Science and Statistics at [McGill University](https://www.mcgill.ca/)
 
 🏢 Latest experience: Tools Programmer intern at [Ubisoft Montreal](https://montreal.ubisoft.com/en/)
 
@@ -20,20 +20,8 @@
 <a href="https://firebase.google.com/"><img title="Google Firebase" src="https://shanzid.com/images/tools/firebase.png" height="30" /></a> &nbsp;
 <a href="https://cloud.google.com/"><img title="Google Cloud Platform" src="https://shanzid.com/images/tools/gcp.png" height="30" /></a> &nbsp;
 
-👀 Impressions <a href="https://trackgit.com"><img src="https://sfy.cx/u/nny" alt="trackgit-views" /></a> 
+👀 Impressions
+
+<a href="https://trackgit.com"><img src="https://sfy.cx/u/nny" alt="trackgit-views" /></a> 
 
 ![Shanzid's github stats](https://github-readme-stats.vercel.app/api?username=Shanzid01&count_private=true)
-<!--
-**Shanzid01/Shanzid01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
