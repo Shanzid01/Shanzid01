@@ -13,7 +13,7 @@ I'm Shanzid, a full-stack web app developer 👨‍💻 with an obsession in per
 
 🏫 Studying Computer Science and Statistics at [McGill University](https://www.mcgill.ca/)
 
-🏢 Latest experience: Tools Programmer intern at [Ubisoft Montreal](https://montreal.ubisoft.com/en/)
+🏢 Latest experience: Tools Programmer (part-time) at [Ubisoft Montreal](https://montreal.ubisoft.com/en/)
 
 🛠 My fav tools
 
