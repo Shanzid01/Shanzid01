@@ -27,7 +27,9 @@ I'm Shanzid, a full-stack web app developer 👨‍💻 with an obsession in per
 
 👀 Impressions
 
-<a href="https://trackgit.com"><img src="https://sfy.cx/u/nny" alt="trackgit-views" /></a> 
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kdxvmw39orhhnd4urmlk" alt="trackgit-views" />
+</a>
 
 ![Shanzid's github stats](https://github-readme-stats.vercel.app/api?username=Shanzid01&count_private=true)
 
