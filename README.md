@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-I'm Shanzid, a full-stack web app developer 👨‍💻 with an obsession in personal finance 📈.
+I'm Shanzid, a full-stack web developer 👨‍💻.
 <br /><br/>
 
 ✨ My latest project: <b>[Trackgit](https://trackgit.com)</b> ([github.com/Trackgit-analytics](https://github.com/Trackgit-analytics))
@@ -13,7 +13,7 @@ I'm Shanzid, a full-stack web app developer 👨‍💻 with an obsession in per
 
 🏫 Studying Computer Science and Statistics at [McGill University](https://www.mcgill.ca/)
 
-🏢 Latest experience: Tools Programmer (part-time) at [Ubisoft Montreal](https://montreal.ubisoft.com/en/)
+🏢 Latest experience: SWE intern at [NVIDIA](https://nvidia.com), working on [MagLev](https://blogs.nvidia.com/blog/2018/09/13/how-maglev-speeds-autonomous-vehicles-to-superhuman-levels-of-safety/)
 
 🛠 My fav tools
 
@@ -31,9 +31,7 @@ I'm Shanzid, a full-stack web app developer 👨‍💻 with an obsession in per
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kdxvmw39orhhnd4urmlk" alt="trackgit-views" />
 </a>
 
-![Shanzid's github stats](https://github-readme-stats.vercel.app/api?username=Shanzid01&count_private=true)
-
 <br />
-
+<br />
 
 ❤ Like what you see? [Support my work](https://pay.shanzid.com)
