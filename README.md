@@ -3,7 +3,7 @@
 I'm Shanzid, a full-stack web developer 👨‍💻.
 <br /><br/>
 
-✨ My latest project: <b>[Trackgit](https://trackgit.com)</b> ([github.com/Trackgit-analytics](https://github.com/Trackgit-analytics))
+✨ My latest work: <b>[niftymints](https://niftymints.art)</b> ([github.com/niftymints](https://github.com/niftymints))
 
 🌎 [Personal website](https://shanzid.com)
 
