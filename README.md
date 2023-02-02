@@ -3,6 +3,8 @@
 I'm Shanzid, a full-stack web developer 👨‍💻.
 <br /><br/>
 
+🏢 SWE at [NVIDIA](https://nvidia.com), working on [MagLev for autonomous vehicles](https://blogs.nvidia.com/blog/2018/09/13/how-maglev-speeds-autonomous-vehicles-to-superhuman-levels-of-safety/)
+
 ✨ My latest work: <b>[niftymints](https://niftymints.art)</b> ([github.com/niftymints](https://github.com/niftymints))
 
 🌎 [Personal website](https://shanzid.com)
@@ -11,9 +13,8 @@ I'm Shanzid, a full-stack web developer 👨‍💻.
 
 🤙 Talk to me @ [LinkedIn](https://www.linkedin.com/in/shanzid01/), [Email](mailto:hello@shanzid.com)
 
-🏫 Studying Computer Science and Statistics at [McGill University](https://www.mcgill.ca/)
+🏫 Studied Computer Science and Statistics at [McGill University](https://www.mcgill.ca/) (2019-2022)
 
-🏢 Latest experience: SWE intern at [NVIDIA](https://nvidia.com), working on [MagLev](https://blogs.nvidia.com/blog/2018/09/13/how-maglev-speeds-autonomous-vehicles-to-superhuman-levels-of-safety/)
 
 🛠 My fav tools
 
