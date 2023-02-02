@@ -5,7 +5,7 @@ I'm Shanzid, a full-stack web developer 👨‍💻.
 
 🏢 SWE at [NVIDIA](https://nvidia.com), working on [MagLev for autonomous vehicles](https://blogs.nvidia.com/blog/2018/09/13/how-maglev-speeds-autonomous-vehicles-to-superhuman-levels-of-safety/)
 
-✨ My latest work: <b>[niftymints](https://niftymints.art)</b> ([github.com/niftymints](https://github.com/niftymints))
+✨ My latest work: <b>[niftymints](https://niftymints.art)</b>
 
 🌎 [Personal website](https://shanzid.com)
 
