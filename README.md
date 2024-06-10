@@ -1,6 +1,6 @@
 ### Hello world! 👋 It's Shanzid
 
-🏢 Senior Software Engineer at [NVIDIA](https://nvidia.com), working on [MagLev for autonomous vehicles](https://blogs.nvidia.com/blog/2018/09/13/how-maglev-speeds-autonomous-vehicles-to-superhuman-levels-of-safety/)
+🏢 Senior Software Engineer at NVIDIA, working on [MagLev for autonomous vehicles](https://blogs.nvidia.com/blog/2018/09/13/how-maglev-speeds-autonomous-vehicles-to-superhuman-levels-of-safety/)
 
 ✨ My latest work: <b>[niftymints](https://niftymints.art)</b>
 
