@@ -8,7 +8,7 @@
 
 📃 [Latest Resume](https://shanzid.com/Shanzid_Shaiham-resume.pdf)
 
-🤙 Talk to me on [LinkedIn](https://www.linkedin.com/in/shanzid01/), [Email](mailto:hello@shanzid.com)
+🤙 Talk to me on [LinkedIn](https://www.linkedin.com/in/shanzid01/) or [hello@shanzid.com](mailto:hello@shanzid.com)
 
 🏫 Studied Computer Science and Statistics at [McGill University](https://www.mcgill.ca/) (2019-2022)
 
